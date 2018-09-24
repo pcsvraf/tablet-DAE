@@ -1,0 +1,96 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="3000dp"
+    android:background="@color/blanco"
+    tools:context=".primero">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="70dp"
+        android:layout_marginTop="73dp"
+        android:layout_marginVertical="50dp"
+        android:text="Seleccione el motivo por el que acudió a la Unidad de Bienestar Estudiantil - DAE"
+        android:textAlignment="center"
+        android:textColor="@color/color"
+        android:textSize="47dp" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginVertical="60dp"
+        android:layout_marginHorizontal="0dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/social"
+            android:layout_width="541px"
+            android:layout_height="110px"
+            android:layout_marginHorizontal="60dp"
+            android:layout_marginVertical="150dp"
+            android:background="@drawable/social"
+            android:text="Servicio Social"
+            android:textSize="0dp" />
+
+        <TextView
+            android:id="@+id/medico"
+            android:layout_width="541px"
+            android:layout_height="110px"
+            android:layout_marginHorizontal="60dp"
+            android:layout_marginVertical="150dp"
+            android:background="@drawable/medico"
+            android:text="Servicio Médico Estudiantil"
+            android:textSize="0dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginVertical="250dp"
+        android:layout_marginHorizontal="0dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/psicoedu"
+            android:layout_width="541px"
+            android:layout_height="110px"
+            android:layout_marginHorizontal="60dp"
+            android:layout_marginVertical="150dp"
+            android:background="@drawable/psicoedu"
+            android:text="Atención Psicoeducativa"
+            android:textSize="0dp" />
+
+        <TextView
+            android:id="@+id/dental"
+            android:layout_width="541px"
+            android:layout_height="110px"
+            android:layout_marginHorizontal="60dp"
+            android:layout_marginVertical="150dp"
+            android:background="@drawable/dental"
+            android:text="Atención Dental"
+            android:textSize="0dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textotime4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textColor="@color/color"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="116dp" />
+</RelativeLayout>

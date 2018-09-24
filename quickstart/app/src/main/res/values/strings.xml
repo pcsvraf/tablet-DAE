@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Quickstart</string>
+    <string name="primero"><![CDATA[<b>Seleccione el motivo por el que acudió a la Unidad de Bienestar Estudiantil - DAE</b>]]></string>
+    <string name="pregunta1"><![CDATA[<b>El tiempo que esperé para ser atendido fue razonable</b>]]></string>
+    <string name="pregunta2"><![CDATA[<b>El personal administrativo demostró dominio para atender mi solicitud</b>]]></string>
+    <string name="pregunta3"><![CDATA[<b>El trato que recibí por parte del personal administrativo fue grato y cordial</b>]]></string>
+    <string name="cuarto"><![CDATA[<b>El profesional del Área Social demostró dominio para atender mi solicitud</b>]]></string>
+    <string name="cuarto1"><![CDATA[<b>El profesional del Área de la Salud demostró dominio para atender mi solicitud</b>]]></string>
+    <string name="cuarto2"><![CDATA[<b>El profesional del Área Dental demostró dominio para atender mi solicitud</b>]]></string>
+    <string name="cuarto3"><![CDATA[<b>El profesional del Área Psicoeducativa demostró dominio para atender mi solicitud</b>]]></string>
+    <string name="corte"><![CDATA[<b>Fui atendido por un profesional del Área Social</b>]]></string>
+    <string name="corte1"><![CDATA[<b>Fui atendido por un profesional del Área de la Salud</b>]]></string>
+    <string name="corte2"><![CDATA[<b>Fui atendido por un profesional del Área Dental</b>]]></string>
+    <string name="corte3"><![CDATA[<b>Fui atendido por un profesional del Área Psicoeducativa</b>]]></string>
+    <string name="quinto"><![CDATA[<b>El trato que recibí por parte del profesional del Área Social fue grato y cordial</b>]]></string>
+    <string name="quinto1"><![CDATA[<b>El trato que recibí por parte del profesional del Área de la Salud fue grato y cordial</b>]]></string>
+    <string name="quinto2"><![CDATA[<b>El trato que recibí por parte del profesional del Área Dental fue grato y cordial</b>]]></string>
+    <string name="quinto3"><![CDATA[<b>El trato que recibí por parte del profesional del Área Psicoeducativa fue grato y cordial</b>]]></string>
+    <string name="pregunta6"><![CDATA[<b>Pude resolver la situación por la que acudí al Servicio Social</b>]]></string>
+    <string name="pregunta61"><![CDATA[<b>Pude resolver la situación por la que acudí al Servicio Médico Estudiantil</b>]]></string>
+    <string name="pregunta62"><![CDATA[<b>Pude resolver la situación por la que acudí al Atención Dental en Servicio Médico Estudiantil</b>]]></string>
+    <string name="pregunta63"><![CDATA[<b>Recibí el apoyo profesional adecuado por el que acudí a Atención Psicoeducativa en Servicio Médico Estudiantil</b>]]></string>
+    <string name="pregunta4"><![CDATA[<b>Califique de 1 a 7 la atención prestada en Servicio Social</b>]]></string>
+    <string name="pregunta41"><![CDATA[<b>Califique de 1 a 7 la atención prestada en Servicio Médico Estudiantil</b>]]></string>
+    <string name="pregunta42"><![CDATA[<b>Califique de 1 a 7 la atención psicoeducativa prestada en Servicio Médico Estudiantil</b>]]></string>
+    <string name="pregunta43"><![CDATA[<b>Califique de 1 a 7 la atención dental prestada en Servicio Médico Estudiantil</b>]]></string>
+    <string name="imagen2"><b>Totalmente\nde Acuerdo</b></string>
+    <string name="imagen3"><b>\tDe\nAcuerdo</b></string>
+    <string name="imagen4"><b>Medianamente\n\tde Acuerdo</b></string>
+    <string name="imagen5"><b>\t\tEn\nDesacuerdo</b></string>
+    <string name="imagen6"><b>Totalmente\ten\n\tDesacuerdo</b></string>
+
+
+</resources>
